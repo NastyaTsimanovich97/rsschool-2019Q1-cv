@@ -18,7 +18,7 @@ May 2018-June 2018 "Masmi" data-analyst
 My project. https://github.com/NastyaTsimanovich97/stp2018.git
 
 ## Education
-*2015-present* Belarusian State University of Informatics and Radioelectronics, facilty of Information technologies and control;
+*2015-present* Belarusian State University of Informatics and Radioelectronics, faculty of Information technologies and control;
 *February 2019*-present RSSchool.
 
 ## Additional information
