@@ -1,4 +1,4 @@
-##Nastya Tsimanovich
+## Nastya Tsimanovich
 **email** nastya.cimanovich.97@gmail.com
 **phone** +375299664215
 
@@ -16,10 +16,10 @@ I would like to develop my skills in Frontend development.
 ## Experience
 May 2018-June 2018 "Masmi" data-analitic
 
-##Education
+## Education
 *2015-present* Belarusian State University of Informatics and Radioelectronics, facilty of Information technologies and control;
 *February 2019*-present RSSchool.
 
-##Additional information
+## Additional information
 - English level: Intermediate (but I improve my knowledge)
 - I'm fond of photography. Every winter I ski. I also play volleyball.
