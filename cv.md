@@ -14,7 +14,8 @@ I would like to develop my skills in Frontend development.
 * SQL, Pl/SQL, MongoDB
 
 ## Experience
-May 2018-June 2018 "Masmi" data-analitic
+May 2018-June 2018 "Masmi" data-analyst
+My project. https://github.com/NastyaTsimanovich97/stp2018.git
 
 ## Education
 *2015-present* Belarusian State University of Informatics and Radioelectronics, facilty of Information technologies and control;
