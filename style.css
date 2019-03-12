@@ -12,6 +12,8 @@ body{
 }
 
 a{
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-size: 14px;
     text-decoration: none;
     color:#6d6a6a;
 }
@@ -81,4 +83,12 @@ main p{
 footer{
     position: relative;
     left:20px;
+}
+ ol, ul footer{
+    list-style: none;
+}
+footer li{
+    text-decoration:none;
+    list-style: none;
+    display: inline;
 }
