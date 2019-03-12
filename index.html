@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-            <section class="about">
+            <section class="about" itemscope itemtype="http://schema.org/Person>
                     <h1 class="title">Nastya Tsimanovich</h1>
                     <img class="person" src="./assets/1.jpg" alt="person">
                 </section>
@@ -30,10 +30,10 @@
         <section class="summary" id="summary">
             <h2>Summary</h2>
             <div class="line"></div>
-            <p>I am a goal-oriented and hardworking person with good organizational skills.<br> 
+            <span itemprop="http://schema.org/knowsAbout"><p>I am a goal-oriented and hardworking person with good organizational skills.<br> 
             Also i have programming experience in JavaScript, HTML, CSS, C++, SQL, Pl/SQL. <br>
             I have good analytical skils. I work well in a team. <br>
-            I would like to develop my skills in Frontend development.</p>
+            I would like to develop my skills in Frontend development.</p></span>
         </section>
         <section class="skills" id="skills">
             <h2>Skills</h2>
@@ -63,8 +63,8 @@
         </section>
     </main>
     <footer>
-        <ul class="contact" id="contact">
-            <li>email<a href="mailto:nastya.cimanovich.97@gmail.com"> nastya.cimanovich.97@gmail.com</a></li>
+        <ul class="contact" id="contact" itemprop="http://schema.org/contactPoint">
+            <li>email<a href="mailto:nastya.cimanovich.97@gmail.com" itemprop="http://schema.org/email"> nastya.cimanovich.97@gmail.com</a></li>
             <li>phone<br><a href="tel:+375299664215" target="_blank"> +375299664215</a></li>
         </ul>
     </footer>
