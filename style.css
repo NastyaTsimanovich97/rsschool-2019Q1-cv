@@ -1,0 +1,84 @@
+body{
+    width: 1024px;
+
+    position: fixed;
+    top:0;
+    left:0;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+}
+
+a{
+    text-decoration: none;
+    color:#6d6a6a;
+}
+header{
+    position: relative;
+    left:10px;
+    bottom:50px;
+}
+.title{
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.person{
+    position: relative;
+    top:20px;
+    width: 200px;
+    height: 150px;
+}
+main{
+    position: relative;
+    left: 40px;
+    top:10px;
+}
+main h2{
+    margin: 20px;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-weight: 400;
+    font-size: 28px;
+}
+main p{
+    margin:10px;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+.line{
+    margin: 20px;
+    height: 20px;
+    width: 540px;
+    border-top: 1px solid #ebebeb;
+}
+.summary .line{
+    position: absolute;
+    top: 45px;
+}
+.skills .line{
+    position: absolute;
+    top: 198px;
+}
+.experience .line{
+    position: absolute;
+    top: 331px;
+}
+.education .line{
+    position: absolute;
+    top: 427px;
+}
+.add-inform .line{
+    position: absolute;
+    top: 561px;
+
+}
+
+footer{
+    position: relative;
+    left:20px;
+}
