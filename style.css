@@ -38,7 +38,7 @@ header{
 main{
     position: relative;
     left: 40px;
-    top:10px;
+    top:5px;
 }
 main h2{
     margin: 20px;
@@ -72,12 +72,11 @@ main p{
 }
 .education .line{
     position: absolute;
-    top: 427px;
+    top: 445px;
 }
 .add-inform .line{
     position: absolute;
-    top: 561px;
-
+    top: 581px;
 }
 
 footer{
@@ -91,4 +90,10 @@ footer li{
     text-decoration:none;
     list-style: none;
     display: inline;
+}
+.items{
+    margin:10px;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-size: 14px;
+    line-height: 1.4;
 }
