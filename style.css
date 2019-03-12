@@ -1,26 +1,25 @@
 body{
-    width: 1024px;
-
     position: fixed;
-    top:0;
-    left:0;
+    top: 0;
+    left: 0;
     display: flex;
+    width: 1024px;
+    height: 100%;
     align-items: center;
     align-content: center;
     justify-content: center;
     overflow: auto;
 }
-
 a{
     font-family: 'PT Serif', 'Times New Roman', serif;
     font-size: 14px;
     text-decoration: none;
-    color:#6d6a6a;
+    color: #6d6a6a;
 }
 header{
     position: relative;
-    left:10px;
-    bottom:50px;
+    left: 10px;
+    bottom: 50px;
 }
 .title{
     font-family: 'PT Serif', 'Times New Roman', serif;
@@ -31,14 +30,14 @@ header{
 
 .person{
     position: relative;
-    top:20px;
+    top: 20px;
     width: 200px;
     height: 150px;
 }
 main{
     position: relative;
     left: 40px;
-    top:5px;
+    top: 5px;
 }
 main h2{
     margin: 20px;
@@ -53,9 +52,9 @@ main p{
     line-height: 1.4;
 }
 .line{
-    margin: 20px;
-    height: 20px;
     width: 540px;
+    height: 20px;
+    margin: 20px;
     border-top: 1px solid #ebebeb;
 }
 .summary .line{
@@ -81,18 +80,18 @@ main p{
 
 footer{
     position: relative;
-    left:20px;
+    left: 20px;
 }
  ol, ul footer{
     list-style: none;
 }
 footer li{
-    text-decoration:none;
-    list-style: none;
     display: inline;
+    text-decoration: none;
+    list-style: none;
 }
 .items{
-    margin:10px;
+    margin: 10px;
     font-family: 'PT Serif', 'Times New Roman', serif;
     font-size: 14px;
     line-height: 1.4;
